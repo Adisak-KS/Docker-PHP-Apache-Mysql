@@ -10,7 +10,7 @@ ___
 
 ### ⭐ ฟีเจอร์ (Feature)
         ✅ รองรับการใช้งาน Apache
-        ✅ รองรับการใช้งาน phpMyAdmin (MySQL)
+        ✅ รองรับการใช้งาน phpMyAdmin (MySQL) Version 5.2.1
         ✅ รองรับการเขียน PHP(MySQLi & PDO) Version 8.2.8 
 ___
 
